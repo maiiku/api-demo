@@ -2,15 +2,15 @@
   "pets": [
     { "id": 1, "type": "dog", "name": "Azor" },
     { "id": 2, "type": "cat", "name": "Mruczek" },
-    { "id": 3, "type": "hamster", "name": "Boo" },
+    { "id": 3, "type": "hamster", "name": "Boo" }
   ],
   "users": [
     { "id": 1, "username": "frank", "email": "frank@hotmail.com" },
-    { "id": 2, "username": "ann", "email": "ann@hotmail.com" },
+    { "id": 2, "username": "ann", "email": "ann@hotmail.com" }
   ],
   "user_pets": [
      { "id": 1, "pet_id": "1", "name": "Azor", "user_id":1, "username": "frank" },
      { "id": 2, "pet_id": "2", "name": "Mruczek", "user_id":2, "username": "ann" },
-     { "id": 3, "pet_id": "3", "name": "Boo", "user_id":2, "username": "ann" }, 
+     { "id": 3, "pet_id": "3", "name": "Boo", "user_id":2, "username": "ann" }
   ]
 }
